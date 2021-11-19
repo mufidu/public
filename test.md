@@ -1,3 +1,3 @@
 # Hi all
 
-This is my first published notes, whatsoever.
+This is my first published notes. Welcome!
