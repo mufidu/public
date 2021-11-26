@@ -100,12 +100,12 @@
 
 - "Logically speaking, since time is a fixed quantity, everything you say yes to implies a no to something else and vice versa."—Scott H. Young 
 
-“Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.” —Ferris Bueller
+- “Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.” —Ferris Bueller
 
-“The sure sign of an amateur is he has a million plans and they all start ” —Steven Pressfield
+- “The sure sign of an amateur is he has a million plans and they all start.Up” —Steven Pressfield
 
-- —
+- "Keeping an open mind is a virtue. But, as the space engineer James Oberg once said, not so open that your brains fall out." —Carl Sagan
 
-- —
+- "Not every problem needs to be overcome, just the ones stopping you from getting where you want to be." —Ann Hill
 
 - —
