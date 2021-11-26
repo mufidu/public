@@ -1,2 +1,3 @@
 - [test](/note/test)
 - [cots](/note/cots)
+- [quotes](/note/cots)
