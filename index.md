@@ -1,1 +1,2 @@
 - [test](/note/test)
+- [cots](/note/cots)
