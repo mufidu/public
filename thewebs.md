@@ -3,10 +3,10 @@
 Basically just a bookmark manager, will be highly inspired by https://superdense.com. Compact, fully-featured, reliable, and accessable everywhere at any time, I hope.
 
 - Superdense pics
-	![homepage](_attachments/Pasted%20image%2020220202131344.png)
-	![pricing page](_attachments/Pasted%20image%2020220202131642.png)
-	![so called promo page](_attachments/Pasted%20image%2020220202131726.png)
-	![app page](_attachments/Pasted%20image%2020220202131524.png)
+	![homepage](https://raw.githubusercontent.com/mufidu/note/main/_attachments/Pasted%20image%2020220202131344.png)
+	![pricing page](https://raw.githubusercontent.com/mufidu/note/main/_attachments/Pasted%20image%2020220202131642.png)
+	![so called promo page](https://raw.githubusercontent.com/mufidu/note/main/_attachments/Pasted%20image%2020220202131726.png)
+	![app page](https://raw.githubusercontent.com/mufidu/note/main/_attachments/Pasted%20image%2020220202131524.png)
 
 ## Why build this?
 I will build this insyaa Allah because I like the idea of simple bookmark manager and currently can't afford Superdense (but I'll more likely build it myself if I afford it, tho).
